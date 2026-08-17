@@ -154,7 +154,7 @@ The deployed Streamlit application includes:
 https://github.com/2025ac05900-sys/ML-Assignment-2-Bank-Marketing/
 
 **## 🚀 Streamlit Application**
----
+
 ## 🔗 Live Application URL:
 ```
 https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
