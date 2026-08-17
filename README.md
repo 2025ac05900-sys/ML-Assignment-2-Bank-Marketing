@@ -157,7 +157,7 @@ https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
 Repository URL:
 
 ```text
-https://github.com/2025ac05900-sys/ML-Assignment-2-Bank-Marketing
+https://github.com/2025ac05900-sys/ML-Assignment-2-Bank-Marketing/
 
 ---
 
