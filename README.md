@@ -150,14 +150,6 @@ Live Application:
 
 ```text
 https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
-```
-
-Example:
-
-```text
-https://bank-marketing-dashboard.streamlit.app
-```
-
 ---
 
 ## 🔗 GitHub Repository
@@ -165,14 +157,7 @@ https://bank-marketing-dashboard.streamlit.app
 Repository URL:
 
 ```text
-Add GitHub Repository URL Here
-```
-
-Example:
-
-```text
-https://github.com/yourusername/ML-Assignment-2-Bank-Marketing
-```
+https://github.com/2025ac05900-sys/ML-Assignment-2-Bank-Marketing
 
 ---
 
