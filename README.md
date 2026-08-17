@@ -137,6 +137,9 @@ The deployed Streamlit application includes:
 
 <img width="1779" height="909" alt="image" src="https://github.com/user-attachments/assets/a2fd4a1c-4de1-49de-9eaf-6ecf8ff1bc7c" />
 
+<img width="1691" height="909" alt="image" src="https://github.com/user-attachments/assets/8340b374-7bcb-43ab-9fc8-20b69990f8d5" />
+
+
 
 ---
 
