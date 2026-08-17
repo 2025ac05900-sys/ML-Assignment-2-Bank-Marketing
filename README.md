@@ -134,14 +134,8 @@ The deployed Streamlit application includes:
 
 ## 📸 Application Screenshot
 
-> Add screenshot after deployment
 
 <img width="1780" height="970" alt="image" src="https://github.com/user-attachments/assets/66211048-923c-4a15-9c7a-213fdd58c406" />
-
-
-```text
-screenshots/dashboard.png
-```
 
 ---
 
