@@ -135,7 +135,8 @@ The deployed Streamlit application includes:
 ## 📸 Application Screenshot
 
 
-<img width="1780" height="970" alt="image" src="https://github.com/user-attachments/assets/66211048-923c-4a15-9c7a-213fdd58c406" />
+<img width="1779" height="909" alt="image" src="https://github.com/user-attachments/assets/a2fd4a1c-4de1-49de-9eaf-6ecf8ff1bc7c" />
+
 
 ---
 
