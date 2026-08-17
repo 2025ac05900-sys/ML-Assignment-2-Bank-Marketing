@@ -141,26 +141,15 @@ The deployed Streamlit application includes:
 
 ## 🚀 Streamlit Application
 
-## 🔗 Live Application URL:
-
-Repository URL:
-
-```
-https://github.com/2025ac05900-sys/ML-Assignment-2-Bank-Marketing/
-
----
-
-```
-https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
-
----
-
 ## 🔗 GitHub Repository
 
-Repository URL:
-
 ```
 https://github.com/2025ac05900-sys/ML-Assignment-2-Bank-Marketing/
+
+---
+## 🔗 Live Application URL:
+```
+https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
 
 ---
 
