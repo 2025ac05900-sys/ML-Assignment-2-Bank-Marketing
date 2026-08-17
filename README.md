@@ -136,7 +136,8 @@ The deployed Streamlit application includes:
 
 > Add screenshot after deployment
 
-Insert screenshot here:
+<img width="1780" height="970" alt="image" src="https://github.com/user-attachments/assets/66211048-923c-4a15-9c7a-213fdd58c406" />
+
 
 ```text
 screenshots/dashboard.png
@@ -148,7 +149,7 @@ screenshots/dashboard.png
 
 Live Application:
 
-```text
+```
 https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
 ---
 
@@ -156,14 +157,14 @@ https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
 
 Repository URL:
 
-```text
+```
 https://github.com/2025ac05900-sys/ML-Assignment-2-Bank-Marketing/
 
 ---
 
 ## 📁 Project Structure
 
-```text
+```
 ML_Assignment_2/
 
 │── app.py
