@@ -149,7 +149,7 @@ screenshots/dashboard.png
 Live Application:
 
 ```text
-Add Streamlit URL Here
+https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
 ```
 
 Example:
@@ -185,10 +185,10 @@ ML_Assignment_2/
 │── requirements.txt
 │── README.md
 │── test_data.csv
-│── model_comparison_results.csv
-│── ML_Assignment_2.ipynb
 
-│── models/
+│── model/
+│     ├── ML_Assignment_2.ipynb
+│     ├── model_comparison_results.csv
 │     ├── decision_tree.pkl
 │     ├── knn.pkl
 │     ├── logistic_regression.pkl
