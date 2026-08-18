@@ -72,7 +72,7 @@ The following classification models were implemented and evaluated:
 
 ---
 
-## 🏆 Overall Winner
+## 🏆 Random Forest - Overall Winner
 
 ### Random Forest Classifier
 
