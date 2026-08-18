@@ -157,7 +157,7 @@ https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure (GitHub Repository)
 
 ```
 ML-Assignment-2-Bank-Marketing/
