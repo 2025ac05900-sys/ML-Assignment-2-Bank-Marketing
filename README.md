@@ -114,7 +114,7 @@ Random Forest achieved the best overall balance of predictive performance.
 - Fast and computationally efficient.
 - Lower AUC, F1 Score, and MCC compared to the top-performing models.
   
-Conclusion: Among all models, Random Forest achieved the highest AUC score (0.9079) while maintaining high accuracy, which is why it was selected as the best model.
+Conclusion: Among all models, Random Forest achieved the highest AUC score (0.9079) while maintaining high accuracy, better balance between Precision and Recall compared to other models which is why it was selected as the best model. 
 ---
 
 ## 🌐 Streamlit App Features
