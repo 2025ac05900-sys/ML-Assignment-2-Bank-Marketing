@@ -124,16 +124,19 @@ The deployed Streamlit application includes:
 ---
 
 
-
 ## 🔗 GitHub Repository
 
-```
+
 https://github.com/2025ac05900-sys/ML-Assignment-2-Bank-Marketing/
 
-**## 🚀 Streamlit Application**
 
-## 🔗 Live Application URL:
 ```
+
+
+```
+## 🔗Streamlit Application URL
+
+
 https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
 
 ---
@@ -162,15 +165,27 @@ Note: The Jupyter Notebook (ML_Assignment_2.ipynb) contains complete model devel
 
 ## 🛠 Technologies Used
 
+### Development & Machine Learning
 - Python
-- Streamlit
+- Jupyter Notebook
 - Scikit-Learn
 - Pandas
 - NumPy
+
+### Visualization
 - Matplotlib
 - Seaborn
+
+### Model Management
 - Joblib
 
+### Application Development
+- Streamlit
+
+### Deployment
+- GitHub
+- Streamlit Community Cloud
+  
 ---
 
 ## 👨‍💻 Author
