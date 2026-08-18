@@ -13,6 +13,9 @@ The objective of this project is to predict whether a customer will subscribe to
 
 **Source:** UCI Machine Learning Repository
 
+**Dataset URL:** 
+https://archive.ics.uci.edu/dataset/222/bank+marketing
+
 ### Dataset Characteristics
 
 - Total Records: **4521**
