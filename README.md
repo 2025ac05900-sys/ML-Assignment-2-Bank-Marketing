@@ -61,37 +61,14 @@ The following classification models were implemented and evaluated:
 
 ## 🔍 Model Observations
 
-### Logistic Regression
-
-- Strong baseline classifier.
-- Highest MCC score among all models.
-- Excellent recall performance.
-- Provides interpretable predictions.
-
-### Decision Tree
-
-- Captures non-linear patterns effectively.
-- Good recall performance.
-- Slightly lower overall predictive capability compared to Logistic Regression and Random Forest.
-
-### K-Nearest Neighbor (KNN)
-
-- Highest Accuracy.
-- Very low Recall and F1 Score.
-- Misses a large number of positive class instances.
-
-### Naive Bayes
-
-- Computationally efficient.
-- Moderate overall performance.
-- Independence assumption limits predictive capability on this dataset.
-
-### Random Forest
-
-- Highest AUC Score.
-- High Accuracy.
-- Strong balance between Precision and Recall.
-- Robust ensemble-based classification performance.
+| ML Model Name | Observation about model performance |
+|--------------|------------------------------------|
+| Logistic Regression | Logistic Regression provided strong overall performance and achieved a high AUC score of 0.8908. It also achieved the highest MCC score (0.4533), indicating balanced prediction capability and good handling of the dataset. |
+| Decision Tree | Decision Tree captured non-linear relationships effectively and achieved good recall. However, its overall predictive performance was slightly lower than Logistic Regression and Random Forest. |
+| KNN | KNN achieved the highest accuracy (0.8884), but very low recall and F1 score. This indicates that the model missed many positive class instances despite producing high overall accuracy. |
+| Naive Bayes | Naive Bayes delivered moderate performance with lower AUC, F1 Score, and MCC values. The assumption of feature independence may not fully represent the dataset characteristics. |
+| Random Forest (Ensemble) | Random Forest achieved the highest AUC score (0.9079) and high accuracy. The ensemble approach improved generalization and provided robust classification performance. |
+| Overall Winner for your dataset? | **Random Forest** was selected as the overall winner
 
 ---
 
