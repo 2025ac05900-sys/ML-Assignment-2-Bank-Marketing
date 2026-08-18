@@ -164,7 +164,7 @@ https://ml-assignment-2-bank-marketing-rhqshacrvswzrojqj2zhq8.streamlit.app/
 ## 📁 Project Structure
 
 ```
-ML_Assignment_2/
+ML-Assignment-2-Bank-Marketing/
 
 │── app.py
 │── requirements.txt
