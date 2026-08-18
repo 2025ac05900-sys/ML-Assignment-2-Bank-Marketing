@@ -68,7 +68,7 @@ The following classification models were implemented and evaluated:
 | KNN | KNN achieved the highest accuracy (0.8884), but very low recall and F1 score. This indicates that the model missed many positive class instances despite producing high overall accuracy. |
 | Naive Bayes | Naive Bayes delivered moderate performance with lower AUC, F1 Score, and MCC values. The assumption of feature independence may not fully represent the dataset characteristics. |
 | Random Forest (Ensemble) | Random Forest achieved the highest AUC score (0.9079) and high accuracy. The ensemble approach improved generalization and provided robust classification performance. |
-| Overall Winner for your dataset? | **Random Forest** was selected as the overall winner
+| Overall Winner for your dataset? | **Random Forest** was selected as the overall winner, it achieved the highest AUC score (0.9079), maintained high accuracy (0.8862), and provided the most balanced overall performance across all evaluation metrics.
 
 ---
 
@@ -90,6 +90,8 @@ Random Forest achieved the best overall balance of predictive performance.
 
 ✅ Good Generalization Capability
 
+✅ Better balance between Precision and Recall compared to other models
+
 
 ### Comparative Analysis of Other Models
 
@@ -109,7 +111,7 @@ Random Forest achieved the best overall balance of predictive performance.
 - Fast and computationally efficient.
 - Lower AUC, F1 Score, and MCC compared to the top-performing models.
   
-Therefore, Random Forest was selected as the best-performing model for the Bank Marketing Dataset.
+Conclusion: Among all models, Random Forest achieved the highest AUC score (0.9079) while maintaining high accuracy, which is why it was selected as the best model.
 ---
 
 ## 🌐 Streamlit App Features
