@@ -90,11 +90,29 @@ Random Forest achieved the best overall balance of predictive performance.
 
 ✅ Good Generalization Capability
 
-Therefore, Random Forest was selected as the best-performing model for the Bank Marketing Dataset.
 
+### Comparative Analysis of Other Models
+
+#### Logistic Regression
+- Achieved strong AUC and the highest MCC score.
+- However, the overall AUC was lower than Random Forest.
+
+#### Decision Tree
+- Good interpretability and recall.
+- More susceptible to overfitting compared to ensemble methods.
+
+#### K-Nearest Neighbor (KNN)
+- Highest Accuracy.
+- Low Recall and F1 Score reduced its effectiveness in identifying positive cases.
+
+#### Naive Bayes
+- Fast and computationally efficient.
+- Lower AUC, F1 Score, and MCC compared to the top-performing models.
+  
+Therefore, Random Forest was selected as the best-performing model for the Bank Marketing Dataset.
 ---
 
-## 🌐 Streamlit Dashboard Features
+## 🌐 Streamlit App Features
 
 The deployed Streamlit application includes:
 
@@ -106,6 +124,7 @@ The deployed Streamlit application includes:
 - 🔍 Prediction Results Viewer
 - 🏆 All Model Comparison Dashboard
 - ⬇️ CSV Export Functionality
+
 
 ---
 
@@ -129,11 +148,8 @@ The deployed Streamlit application includes:
 
 https://github.com/2025ac05900-sys/ML-Assignment-2-Bank-Marketing/
 
+---
 
-```
-
-
-```
 ## 🔗Streamlit Application URL
 
 
