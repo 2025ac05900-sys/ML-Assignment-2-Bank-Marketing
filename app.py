@@ -1,5 +1,5 @@
 
-# Streamlit App: Bank Marketing Classification Dashboard
+# Streamlit App: Bank Marketing Classification App
 # Models:
 # 1. Logistic Regression
 # 2. Decision Tree
