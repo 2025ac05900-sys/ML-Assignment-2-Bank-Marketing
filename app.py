@@ -40,7 +40,7 @@ st.set_page_config(
 
 
 
-# Custom CSS for Better UI
+# CSS for UI
 
 
 st.markdown(
